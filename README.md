@@ -250,7 +250,7 @@ Use SQL queries and Python (pandas, matplotlib, seaborn) to explore OLAP data fo
 
 **1.Linear Regression** - Forecasting future sales trends.
 
-**2. Random Forest & XGBoost** - Predict product performance and customer demand with higher accuracy.
+**2. Random Forest & XGBoost** - Predicting product performance and customer demand with higher accuracy.
 
 **3. Model Performance & Evaluation** - Compare models using metrics (e.g., RMSE, R^2, accuracy) 
 to ensure reliable predictions. Use results to recommend pricing strategies and product placement.
